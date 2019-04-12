@@ -1,0 +1,10 @@
+.ellipse {
+    fill: #98df8a;
+    stroke: rgba(0, 0, 0, .1);
+    stroke-width: 1px;
+}
+
+.ellipse.active {
+    stroke: #000;
+    stroke-width: 2px;
+}
